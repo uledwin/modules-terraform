@@ -18,3 +18,7 @@ variable "aws_sg_name" {
 variable "aws_sg_ingress_rule" {
 
 }
+
+variable "aws_sg_egress_rule" {
+
+}
